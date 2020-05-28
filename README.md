@@ -5,3 +5,4 @@ projet application web et mobile E-comemrce avec  framework React */database nos
 - crée un article 
 - consulter/modifier/supprimer les utilisateur 
 -templates user et admin....
+- confirmation par mail
